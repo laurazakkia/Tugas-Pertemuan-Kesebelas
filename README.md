@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07e0eb65-3879-4f3a-bd9d-5cbd605bec25)# Konsep Pemrograman Berorientasi Objek - REPORT (UPLOAD .CSV)
+# Konsep Pemrograman Berorientasi Objek - REPORT (UPLOAD .CSV)
 ---
 Button Upload ini berfungsi untuk menambahkan data dari file .csv yang kita upload.
 ---
@@ -63,4 +63,16 @@ Button Upload ini berfungsi untuk menambahkan data dari file .csv yang kita uplo
 
 ### 3. Membuat file excel dengan format (.csv)
 ![image](https://github.com/user-attachments/assets/f5284a20-f723-40a9-a704-45f950be5460)
+
+## Implementasi : 
+### 1. Pilih upload
+![image](https://github.com/user-attachments/assets/e296490e-2c5d-43f9-b76a-5f39eaa78094)
+
+### 2. Pilih file (.csv) yang sudah dibuat dan open file
+![image](https://github.com/user-attachments/assets/d930c880-d360-46ac-a8f6-0a5b8f0b8262)
+
+### 3. Data akan otomatis ditambahkan
+![image](https://github.com/user-attachments/assets/105f267a-04a0-49b1-a5dc-0c5ebd61008a)
+
+
 
